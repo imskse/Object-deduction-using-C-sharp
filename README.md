@@ -1,5 +1,4 @@
-# Object-deduction-using-C-
-Object deduction using Yolo C#
+# Object-deduction-using-C#
 Download file from this link <https://drive.google.com/drive/folders/1xbrhsLOlEU7YJpenpSdV62nEL8UE6gn6?usp=sharing>
 
 # System requriements
