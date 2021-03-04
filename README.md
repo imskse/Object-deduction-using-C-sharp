@@ -1,5 +1,4 @@
 # Object-deduction-using-C#
-Download file from this link <https://drive.google.com/drive/folders/1xbrhsLOlEU7YJpenpSdV62nEL8UE6gn6?usp=sharing>
 
 # System requriements
 1. Dot NET Framework 4.6.1
